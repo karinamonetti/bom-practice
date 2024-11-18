@@ -1,0 +1,14 @@
+C O N S I G N A
+------------------
+
+- Crea una aplicación con un botón que genere una ventana cuyo ancho y alto será el 50% del ancho y alto disponibles de la ventana. ✅
+
+- Esta ventana mostrará un texto que si se está ejecutando la aplicación en un navegador Chrome será en español pero si se está ejecutando en Firefox será en el lenguaje preferido del usuario. ✅
+
+- El texto preguntará si el usuario da su consentimiento para almacenar las cookies y se deberá actualizar la propiedad destinada a ello en el navegador con la resapuesta que el usuario dará mediante dos botones que también incluirá la ventana. ✅
+
+- Por último, una vez cerrada la ventana, se deberá mostrar escrito en pantalla:
+    - Resolución de la pantalla.
+    - Navegador.
+    - URL de la página.
+    - Consentimiento de cookies. 
